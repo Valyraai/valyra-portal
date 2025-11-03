@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = { title: "Valyra Portal" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
